@@ -1,2 +1,2 @@
 # hello-world
-Create for code testing
+This file was created for code test
